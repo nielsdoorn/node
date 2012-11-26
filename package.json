@@ -1,9 +1,7 @@
 {
-  "name": "node-example",
+  "name": "uploader",
   "version": "0.0.1",
   "dependencies": {
-    "express": "2.5.x",
-    "pg": "0.6.15",
     "formidable":"*",
     "fs":"*"
   },
